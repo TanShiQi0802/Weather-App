@@ -8,16 +8,5 @@ An iOS Weather App built with **UIKit** (Home Screen) and **SwiftUI** (City Scre
    ```bash
    git clone https://github.com/TanShiQi0802/Weather-App.git
    cd Weather-App
-   
-## 🧰 Technologies
-
-- **Language:** Swift
-- **Frameworks:** UIKit, SwiftUI, Combine
-- **Architecture:** MVVM with clean separation of concerns
-- **Persistence:** `UserDefaults` (for recently viewed cities)
-- **Networking:** `URLSession`
-- **Caching:** In-memory with 1-minute expiration
-- **Testing:** `XCTest` with **100% code coverage** on non-UI logic
-
 
 
